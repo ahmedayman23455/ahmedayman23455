@@ -19,7 +19,7 @@ Hi, I'm ahmed ayman, a frontend Developer 🚀 from Egypt. I'm 21 years old and 
 - 👨🏽‍💻 I’m a self-taught frontend developer;
 - 🌱 I’m currently learning typescript 🤝;
 - 📫 How to reach me: ahmed.ayman234666@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf)
+- 📝[Resume](https://drive.google.com/drive/u/0/my-drive)
 
 
 **Languages and Tools:** 
