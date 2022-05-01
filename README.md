@@ -12,7 +12,11 @@
 <br />
 <br /> -->
 
-Hi, I'm ahmed ayman, a frontend Developer 🚀 from Egypt. I'm 21 years old and I'm a student of Computer Science, I'm in my fourth year of elshrouk academy. 
+<!-- Hi, I'm ahmed ayman, a frontend Developer 🚀 from Egypt. I'm 21 years old and I'm a student of Computer Science, I'm in my fourth year of elshrouk academy.  -->
+
+I am a self-taught front-end developer who finds his passion in writing code, and style components using Front-End Technologies and
+delivering high-quality and beautiful products that are amazing for users. I am looking for opportunities that will utilize my skills and
+experience in a company, and also for growth and advancement.
 
 **Talking about Personal Stuffs:**
 
@@ -21,6 +25,11 @@ Hi, I'm ahmed ayman, a frontend Developer 🚀 from Egypt. I'm 21 years old and 
 - 📫 How to reach me: ahmed.ayman234666@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1j3UKVxNSTm-e_jBLL_jWmwGFEhJhWz9v/view?usp=sharing)
 
+**Connect with me:** 
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmed-ayman-011a19171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ragap-2b01b4168/" height="30" width="40" /></a>
+  <a href="https://github.com/ahmedayman23455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Ahmed-Ragap" height="30" width="40" /></a>
+</p>
 
 **Languages and Tools:** 
 <p align="left">
