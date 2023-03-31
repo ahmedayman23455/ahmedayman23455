@@ -21,7 +21,6 @@ experience in a company, and also for growth and advancement.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a self-taught frontend developer;
-- 🌱 I’m currently learning typescript 🤝;
 - 📫 How to reach me: ahmed.ayman23455@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1wbPxcnO2CuJCAcyBbB7BOfNqj3A_x6ZF/view?usp=sharing)
 
